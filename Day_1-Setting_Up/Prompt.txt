@@ -3,3 +3,6 @@
   * Learn how to set up the HERO board using a breadboard and connect it to a computer.
   * Write and upload a simple code to make an LED blink using the Arduino IDE.
   * Develop foundational skills in coding and electronics.
+
+# ARDUINO INSTALLATION
+  * https://www.youtube.com/watch?v=7-XKZOTyW9Y&t=319s
