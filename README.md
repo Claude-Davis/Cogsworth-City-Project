@@ -1,5 +1,4 @@
-# The Crafting Table
-## https://craftingtable.com/
+# The Crafting Table - https://craftingtable.com/
 "Crafting Table" is a company that sells story-based projects to aid in learning / practicing coding.
 
 # Cogsworth-City-Project
